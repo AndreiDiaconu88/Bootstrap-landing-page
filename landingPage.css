@@ -1,0 +1,32 @@
+.content{
+	text-align: center;
+	padding-top: 20%;
+}
+
+html{
+	height: 100%;
+}
+body{
+	background: url(https://source.unsplash.com/jd0hS7Vhn_A);
+	background-size: cover;
+	background-position: center;
+	color: white;
+	font-family: Lora;
+}
+hr{
+	width: 400px;
+	border-top: 1px solid #f1f1f1;
+	border-bottom: 1px solid rgba(0,0,0,0.3);
+}
+
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+footer{
+	width: 100%;
+	position: fixed;
+}
+.copyright{
+	text-decoration: none;
+}
